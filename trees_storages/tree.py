@@ -1,7 +1,5 @@
 class TreeNode(object):
-    """
-    Binary Tree node
-    """
+
     def __init__(self,key,lchild=None,rchild=None):
         self.key=key
         self.lchild=lchild
